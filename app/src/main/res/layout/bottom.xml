@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:gravity="center"
+    android:background="#EEEEEE"
+    android:orientation="horizontal">
+<TextView
+    android:id="@+id/tv_search"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:text="查询"
+    android:gravity="center"/>
+    <TextView
+        android:id="@+id/tv_quest"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="题库"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/tv_collect"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="收藏"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/tv_wrong"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="错题"
+        android:gravity="center"/>
+</LinearLayout>

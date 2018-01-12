@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">答题App</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="about_app">
+        "    该答题app主要功能模块有：查询题目、题库测试和练习，错题练习，收藏题目练习，考试记录等功能。
+        运用技术有SQLite，fragment，ViewFlipper，OnTouchListener等，关键技术在于答题功能的逻辑设计。
+        其中在测试功能中有计时，滑动切换试题，题号选择卡，收藏，错对判断和保存错题，测试结束后会保存考试成绩。
+        练习功能中有滑动切换试题，题号选择卡，收藏，保存上次进度，错对判断和保存错题。
+        查询题目功能，通过关键词可以查询到相关的题目并查看详细题目解析。
+        "</string>
+</resources>
