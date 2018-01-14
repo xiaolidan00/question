@@ -7,17 +7,18 @@
 练习功能中有滑动切换试题，题号选择卡，收藏，保存上次进度，错对判断和保存错题。
 查询题目功能，通过关键词可以查询到相关的题目并查看详细题目解析。
 
-![Alt text](/效果图/device-2018-01-12-094639.png =320x480)
-![Alt text](/效果图/device-2018-01-12-094735.png=320x480)
-![Alt text](/效果图/device-2018-01-12-094823.png =320x480)
-![Alt text](/效果图/device-2018-01-12-094841.png=320x480)
-![Alt text](/效果图/device-2018-01-12-094912.png=320x480)
-![Alt text](/效果图/device-2018-01-12-094933.png=320x480)
-![Alt text](/效果图/device-2018-01-12-094948.png =320x480)
-![Alt text](/效果图/device-2018-01-12-095051.png=320x480)
-![Alt text](/效果图/device-2018-01-12-095116.png =320x480)
-![Alt text](/效果图/device-2018-01-12-095143.png=320x480)
-![Alt text](/效果图/device-2018-01-12-095315.png =320x480)
-![Alt text](/效果图/device-2018-01-12-095402.png=320x480)
-![Alt text](/效果图/device-2018-01-12-095423.png =320x480)
-![Alt text](/效果图/device-2018-01-12-095524.png=320x480)
+
+<img src="/效果图/device-2018-01-12-094639.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-094735.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-094823.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-094841.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-094912.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-094933.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-094948.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-095051.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-095116.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-095143.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-095315.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-095402.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-095423.png" width="25%" height="25%" />
+<img src="/效果图/device-2018-01-12-095524.png" width="25%" height="25%" />
